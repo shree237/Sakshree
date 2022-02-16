@@ -1,4 +1,5 @@
 body{
+    margin: 70px;
     align-items: center;
     background-color: #0b1522;
     justify-content: center;
@@ -7,7 +8,7 @@ body{
     display: flex;
     margin: 0;
     padding: 0;
-    height: 60vh;
+    min-height: 35vh;
     align-items: center;
     background-color: #0b1522;
     justify-content: center;
